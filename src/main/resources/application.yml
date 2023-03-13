@@ -1,16 +1,20 @@
 micronaut:
   application:
     name: micronautguide
+
 datasources:
   default:
     driver-class-name: com.mysql.cj.jdbc.Driver
     db-type: mysql
     dialect: MYSQL
+
 netty:
   default:
     allocator:
       max-order: 3
+
 flyway:
   datasources:
     default:
       enabled: true
+
