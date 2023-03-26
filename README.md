@@ -39,3 +39,6 @@
 - [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
 
 
+## run this as
+
+./gradlew run
